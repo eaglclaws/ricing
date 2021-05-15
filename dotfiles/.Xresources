@@ -34,3 +34,6 @@
 ! white
 *.color7:       #5d6373
 *.color15:      #abaeac
+
+URxvt.scrollBar: false
+URxvt.font: xft:d2coding:pixelsize=12, xft:hanazono:pixelsize=12
